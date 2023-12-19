@@ -8,7 +8,6 @@ public class Team {
         this.teamName = teamName;
         this.power = power;
 
-
     }
 
     @Override

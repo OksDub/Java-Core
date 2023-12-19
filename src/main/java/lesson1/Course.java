@@ -4,6 +4,7 @@ public class Course {
     private double lenghtTreadmill;
     private double lenghtPool;
 
+
     public Course(double lenghtTreadmill, double lenghtPool) {
         this.lenghtTreadmill = lenghtTreadmill;
         this.lenghtPool = lenghtPool;
