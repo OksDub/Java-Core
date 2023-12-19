@@ -17,6 +17,7 @@ public class Main {
 //
 //        Animal cat4 = new Cat("Морис", "red", 10);
 //
+
 //        if (cat4 instanceof Wolf) {
 //            Wolf cat5 = (Wolf) cat4;
 //        } else {
