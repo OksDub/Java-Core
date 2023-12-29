@@ -18,7 +18,8 @@ public class Box <T extends Fruit> {
         this.fruitList = fruitList;
     }
         public double getWeight() {
-        return fruitList.size() * fruitList.get(0).getWeight();
+            int i = fruitList.size() ;
+            return i;
 
     }
 
