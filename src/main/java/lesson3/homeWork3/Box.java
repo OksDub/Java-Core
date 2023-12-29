@@ -23,7 +23,7 @@ public class Box <T extends Fruit> {
 
     public void transferFruitsTo(Box<T> anotherBox) {
         if (this == anotherBox) {
-            return; // Нельзя пересыпать в саму себя
+            return;
         }
 
         anotherBox.fruits.addAll(this.fruits);
