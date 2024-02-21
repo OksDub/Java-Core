@@ -26,6 +26,8 @@ public class Main {
 
         System.out.println("Вес appleBox1: " + appleBox1.getWeight());
         System.out.println("Вес appleBox2: " + appleBox2.getWeight());
+
+
     }
 
 }
